@@ -29,8 +29,8 @@ The Terraform code provisions the following resources on AWS:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/prasad-zample-3/terraform-vpc-ec2-project.git
+cd terraform-vpc-ec2-project
 
 ```
 
